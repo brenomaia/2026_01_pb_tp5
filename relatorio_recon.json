@@ -1,0 +1,7 @@
+{
+    "target": "scanme.nmap.org",
+    "dns": {
+        "raw_output": ""
+    },
+    "hosts": {}
+}
